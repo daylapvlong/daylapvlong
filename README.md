@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Pham Long" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pham long" height="30" width="40" /></a>
-<a href="https://fb.com/Long Pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="long pham" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/Pham Long](https://www.linkedin.com/in/pham-long-1b3591257/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pham long" height="30" width="40" /></a>
+<a href="[https://fb.com/Long Pham](https://www.facebook.com/profile.php?id=100012864726826)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="long pham" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daylapvlong&show_icons=true&locale=en&layout=compact" alt="daylapvlong" /></p>
