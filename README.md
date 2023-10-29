@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pham Viet Long</h1>
-<h2 align="center">A rather cheerful and energetic frontend developer from Hanoi Vietnam</h3>
+<h2 align="center">Currently an undergraduate fullstack developer from Hanoi Vietnam</h3>
 
 ## More About Me :blush:
 - 🌱 I’m currently majoring **software engineering at FPT university**
-- 🔭 I’m currently into backend development with **NodeJs and Java Spring**
+- 🔭 I’m currently into backend development with **NodeJs, ReactJs and Java Spring**
 - ⚡ It's my goal to become a **fullstack developer** in the near future
 
 <h2 align="left">Connect with me:</h3>
