@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/_.longpham._/"><img alt="Instagram" title="JLong Pham Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
 <p align="center">
-  
+  <img height= "160" src="https://github-readme-stats.vercel.app/api?username=daylapvlong&theme=react&show_icons=true&locale=en" alt="daylapvlong" />
   <img height= "160" src="https://github-readme-streak-stats.herokuapp.com/?user=daylapvlong&theme=react&" alt="daylapvlong" />
   <img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs?username=daylapvlong&theme=react&show_icons=true&locale=en&layout=compact" alt="daylapvlong" />
 </p>
