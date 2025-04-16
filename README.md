@@ -3,7 +3,7 @@
 
 ## More About Me :blush:
 - 🌱 I majored in Software Engineering at FPT University
-- 🔭 I'm passionate about backend development and have hands-on experience with Node.js, NestJS, ReactJS, and Java Spring
+- 🔭 I'm passionate about website & software development and have hands-on experience with Node.js, NestJS, ReactJS, and Java Spring
 - 💡 Currently working as a Fullstack Developer and LLM Researcher at VPBank
 - ⚡ Proficient in building scalable applications and fluent in both frontend and backend stacks
 - 🚀 Always exploring new technologies and aiming to build intelligent, user-centric systems
